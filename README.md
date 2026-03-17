@@ -4,15 +4,13 @@
 
 
 ## Bio
-- Hello everyone, I am Prof. Rodrigues. I was born and raised in Brazil in a small town in the state of Rio de Janeiro.
-
-- From 2011 to 2015 I studied at Stevens Institute of Technology in Hoboken, New Jersey. I received a Bachelor's of Science in Computer Engineering and a Master's of Science in Computer Science.
-
-- I am now an Associate Professor at PCCC. 
-- 🔭 I’m currently working on new curriculum ideas for my courses.
-- 🌱 I’m currently learning Cybersecurity for the CompTIA Security+ Certification.
-- 📫 How to reach me: [jprodrigues@pccc.edu](jprodrigues@pccc.edu)
+- 👋 Hello everyone, I am Prof. Rodrigues!
 - 😄 Pronouns: He/Him.
+- 🏠 Currently in New Jersey - USA
+- 🗺️ Originally from Brazil 
+- 🧑🏻‍🏫 I’m currently working on new curriculum ideas for my courses.
+- 📖 I’m currently learning Cybersecurity for the CompTIA Security+ Certification.
+- 📧 How to reach me: [jprodrigues@pccc.edu](jprodrigues@pccc.edu)
 - 🎮 Love playing FFXIV and GW2.
 
 
